@@ -16,6 +16,12 @@
 
 </div>
 
+## 🌳 World Models Evolutionary Tree
+
+<p align="center">
+  <img src="assets/images/tree.png" width="100%">
+</p>
+
 
 
 ## 🔥 News & Updates

